@@ -6,8 +6,8 @@ with open("README.md", "r", encoding="utf-8") as fh:
 setuptools.setup(
     name='pip-package-demo', ##name of repo enclosing folder (pip-package-demo)
     version='0.0.2',
-    author='Eduardo Gonzalez', ## your name
-    author_email='glez.e.alejandro@gmail.com', ## your email
+    author='Sandeep Junnarkar', ## your name
+    author_email='sjnews@gmail.com', ## your email
     description='Demo on pip package creation', ## description of package
     long_description=long_description,
     long_description_content_type="text/markdown",
